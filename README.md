@@ -16,9 +16,9 @@ The dataset used for this project is the Pima Indians Diabetes Database, which c
 - Age
 
 # Requirements
-Python 3.11.8
-Jupyter Notebook (Visual Studio Code)
-NumPy
-pandas
-scikit-learn
+- Python 3.11.8
+- Jupyter Notebook (Visual Studio Code)
+- NumPy
+- pandas
+- scikit-learn
 
